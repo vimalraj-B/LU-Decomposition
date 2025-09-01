@@ -55,6 +55,8 @@ print(x)
 L AND U MATRIX:
 ```
 <img width="617" height="632" alt="Screenshot 2025-09-01 094718" src="https://github.com/user-attachments/assets/8ebf0b16-41c2-4349-96fd-15c63527c8f3" />
+
+
 ```
 LU DECOMPOSITION:
 ```
